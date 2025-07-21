@@ -97,7 +97,7 @@
 
 | PM / Backend | Backend | Backend | Backend | Frontend | Frontend | Designer |
 |:------------:|:-------:|:-------:|:-------:|:--------:|:--------:|:--------:|
-| ![](https://avatars.githubusercontent.com/u/164463609?v=4&s=120)<br> [이동준](https://github.com/dongjune8931) | ![](https://avatars.githubusercontent.com/u/155940734?v=4&s=120) <br> [이가영](https://github.com/LGY010011) | ![](https://avatars.githubusercontent.com/u/162654709?v=4&s=120) <br> [최민수](https://github.com/CMIN-SU) | ![](https://avatars.githubusercontent.com/u/150355097?v=4&s=120) <br> [박규민](https://github.com/FrontHeadlock) | ![](https://avatars.githubusercontent.com/u/97932282?v=4&s=120) <br> [고민균](https://github.com/miinnne) | ![](https://avatars.githubusercontent.com/u/96588957?v=4&s=120) <br> [채연](https://github.com/lwittyl) | ![]() <br> 이서연 |
+| ![](https://avatars.githubusercontent.com/u/164463609?v=4&s=120)<br> [이동준](https://github.com/dongjune8931) | ![](https://avatars.githubusercontent.com/u/155940734?v=4&s=120) <br> [이가영](https://github.com/LGY010011) | ![](https://avatars.githubusercontent.com/u/162654709?v=4&s=120) <br> [최민수](https://github.com/CMIN-SU) | ![](https://avatars.githubusercontent.com/u/150355097?v=4&s=120) <br> [박규민](https://github.com/FrontHeadlock) | ![](https://avatars.githubusercontent.com/u/97932282?v=4&s=120) <br> [고민균](https://github.com/miinnne) | ![](https://avatars.githubusercontent.com/u/96588957?v=4&s=120) <br> [채연](https://github.com/lwittyl) | ![]() <br> 김서연 |
 
 
 
