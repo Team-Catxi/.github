@@ -21,7 +21,7 @@
 
 ## 🛠 Tech Stacks
 
-### 🎨 Frontend Tech Stack
+### 🎨 Frontend Tech Stack (지도 관련 추가 예정)
 
 - **pnpm / Vite**: 빠르고 효율적인 패키지 설치 및 프론트엔드 빌드 환경
 - **Tailwind CSS**: 유틸리티 기반 CSS 프레임워크
@@ -53,7 +53,7 @@
 
 ---
 
-### ⚙️ Backend
+### ⚙️ Backend (지도 관련 추가 예정)
 
 - **Spring Boot**: Java 기반 웹 애플리케이션 프레임워크
 - **Java 17**: 최신 LTS 버전의 Java
@@ -66,16 +66,17 @@
 ---
 
 ### ☁️ Infrastructure (아키텍처 사진))
+<img width="7680" height="4320" alt="image" src="https://github.com/user-attachments/assets/c962adf6-d4b8-4067-bfb8-9af86827faf7" />
 
-- **AWS EC2**: 애플리케이션 서버 호스팅
-- **AWS RDS (MySQL)**: 관리형 데이터베이스
-- **AWS S3**: 이미지 및 파일 업로드 스토리지
-- **Nginx**: 리버스 프록시 및 SSL 인증 처리
-- **Docker**: 컨테이너 기반 환경 구성
+#### 설계 의도 및 특징
+- API 서버와 채팅 서버 분리: 각 서버의 책임을 명확히 분리하여 성능 최적화 및 확장성 확보.
+- Redis Pub/Sub 기반 WebSocket 확장성: 여러 채팅 서버 간 실시간 메시지 동기화 구조.
+- Nginx 단일 진입점 구성: WebSocket 및 일반 API 트래픽 라우팅 일원화.
+- CI/CD & Health Check 연동: 서버 배포 자동화 및 안정성 확보.
 
 ---
 
-### 🔁 CI/CD & DevOps (CICD 사진))
+### 🔁 CI/CD & DevOps 
 
 - **Jenkins**: CI/CD 파이프라인 구축 및 자동 배포
 - **GitHub Actions**: 테스트 및 코드 품질 검사 자동화
